@@ -1,0 +1,8 @@
+Nome de classe sempre por letra maiuscula
+JVM sempre irá procurar pelo bloco main quando executado
+Deverá existir apenas um main
+
+Classe é um molde, possui as caracteristicas, atributos
+
+Método é comportamento
+tipo void é sem retorno
